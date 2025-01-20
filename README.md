@@ -47,29 +47,7 @@ Copy
 Edit
 git clone <repository-url>
 cd CarValuationProject
-Install Dependencies: Add the following dependencies in your pom.xml:
-
-xml
-Copy
-Edit
-<dependencies>
-    <dependency>
-        <groupId>org.seleniumhq.selenium</groupId>
-        <artifactId>selenium-java</artifactId>
-        <version>4.x.x</version>
-    </dependency>
-    <dependency>
-        <groupId>io.cucumber</groupId>
-        <artifactId>cucumber-java</artifactId>
-        <version>7.x.x</version>
-    </dependency>
-    <dependency>
-        <groupId>org.junit.jupiter</groupId>
-        <artifactId>junit-jupiter</artifactId>
-        <version>5.x.x</version>
-    </dependency>
-</dependencies>
-Configure WebDriver:
+Install Dependencies.
 
 Download and install the appropriate WebDriver (e.g., ChromeDriver for Chrome).
 Add the WebDriver executable to your system's PATH.
