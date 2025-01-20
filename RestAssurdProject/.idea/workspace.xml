@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f0da8e5-4d47-477e-9b78-281b51a65ebd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AmazonProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonProject/src/main/java/Driver/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonProject/src/main/java/Driver/LetsLearn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonProject/src/main/java/WebDriver/DynamicWebTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonProject/src/main/java/WebDriver/LetsKoDeIt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonProject/src/main/java/WebDriver/MyBillAfrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonProject/src/main/java/WebDriver/ReteIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonProject/src/main/java/WebDriver/SeleniumQues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonProject/target/classes/WebDriver/LetsKoDeIt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmazonProject/target/classes/WebDriver/SeleniumQues.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../App/App.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeceSeleniumProject/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeceSeleniumProject/src/test/java/Base/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeceSeleniumProject/src/test/java/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeceSeleniumProject/src/test/java/pageObjects/RegistrationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeceSeleniumProject/src/test/java/stepDefinitions/RegistrationSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeceSeleniumProject/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2Project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2Project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2Project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2Project/Demo2Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2Project/src/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoProject/DemoProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoProject/src/ArrayList/DynamicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HR/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HR/src/test/java/CucumberOptions/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HR/src/test/java/hooks/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HR/src/test/java/hooks/BrowserDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HR/src/test/java/pageObjects/AboutUsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HR/src/test/java/stepDefinitions/AboutUsStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HR/src/test/resources/features/AbuotUs.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HR/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M/src/test/java/cucumberOptions/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M/src/test/java/hooks/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M/src/test/java/hooks/BrowserDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M/src/test/java/pageObjects/BusinessPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M/src/test/java/stepDefinitions/BusinesStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M/src/test/resources/features/BusinessAnalysis.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M/target/test-classes/cucumberOptions/TestRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M/target/test-classes/features/BusinessAnalysis.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M/target/test-classes/hooks/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M/target/test-classes/hooks/BrowserDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../M/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentorSKidProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentorSKidProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentorSKidProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentorSKidProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentorSKidProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentorSKidProject/src/test/java/Hooks/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentorSKidProject/src/test/java/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentorSKidProject/src/test/java/pageObjects/MentorRegistrationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentorSKidProject/src/test/java/stepDefinitions/MentorRegistrationSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentorSKidProject/src/test/resources/features/MentorRegistration.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MentorSKidProject/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NanoProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NanoProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NanoProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NanoProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NanoProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NanoProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NanoProject/src/test/java/Hooks/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NanoProject/src/test/java/Hooks/BrowserDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NanoProject/src/test/java/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NanoProject/src/test/java/pageObjects/MentorsRegistrationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NanoProject/src/test/java/stepDefinitions/MentorRegistrationSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NanoProject/src/test/resources/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NanoProject/src/test/resources/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NanoProject/src/test/resources/features/MentorRegistration.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NanoProject/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PLTProject/src/test/java/Hooks/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PLTProject/src/test/java/cucumberOptions/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PLTProject/src/test/java/pageObjects/ClothingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PLTProject/src/test/java/stepDefinitions/ClothingSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PLTProject/src/test/resources/features/Clothing.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PLTProject/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrepMajorTraining/src/test/java/stepdefs/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrepMajorTraining/src/test/java/stepdefs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrepMajorTraining/src/test/java/stepdefs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrepMajorTraining/src/test/java/stepdefs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrepMajorTraining/src/test/java/stepdefs/stepdefs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrettyLittleThing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrettyLittleThing/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrettyLittleThing/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrettyLittleThing/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrettyLittleThing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrettyLittleThing/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrettyLittleThing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrettyLittleThing/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrettyLittleThing/src/test/java/CucumberOptions/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrettyLittleThing/src/test/java/Hooks/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrettyLittleThing/src/test/java/Hooks/BrowserDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrettyLittleThing/src/test/java/pageObjects/ClothingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrettyLittleThing/src/test/java/stepDefinitions/ClothingStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrettyLittleThing/src/test/resources/features/Clothing.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrettyLittleThing/target/test-classes/Hooks/BrowserDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrettyLittleThing/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectName/ProjectName.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetProject/src/test/java/cucumberOptions/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetProject/src/test/java/hooks/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetProject/src/test/java/hooks/BrowserDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetProject/src/test/java/pageObjects/AboutUsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetProject/src/test/java/stepDefnintions/AboutUsStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetProject/src/test/resources/features/About.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetProject/target/test-classes/pageObjects/AboutUsPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetProject/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReteiconsAutomation/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReteiconsAutomation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReteiconsAutomation/src/test/java/Utilities/OptionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReteiconsAutomation/src/test/java/cucumberOptions/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReteiconsAutomation/src/test/java/data/TestDataGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReteiconsAutomation/src/test/java/hooks/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReteiconsAutomation/src/test/java/pageObjects/AboutUsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReteiconsAutomation/src/test/java/pageObjects/ContactUsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReteiconsAutomation/src/test/java/pageObjects/ResourcesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReteiconsAutomation/src/test/java/pageObjects/ScrumPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReteiconsAutomation/src/test/java/stepDefinitions/AboutUsStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReteiconsAutomation/src/test/java/stepDefinitions/ContactUsStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReteiconsAutomation/src/test/java/stepDefinitions/ResourcesStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReteiconsAutomation/src/test/java/stepDefinitions/ScrumStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReteiconsAutomation/src/test/resources/features/AboutUs.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReteiconsAutomation/src/test/resources/features/ConfifFile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReteiconsAutomation/src/test/resources/features/ContactUs.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReteiconsAutomation/src/test/resources/features/Resources.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReteiconsAutomation/src/test/resources/features/Scrum.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReteiconsAutomation/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/src/test/java/Hooks/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/src/test/java/Hooks/BrowserDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/src/test/java/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/src/test/java/pageObjects/AreaOfExpertisePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/src/test/java/pageObjects/ContactDetailsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/src/test/java/pageObjects/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/src/test/java/pageObjects/MenteeRegistrationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/src/test/java/pageObjects/MentorRegistrationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/src/test/java/stepDefinitions/ContactDetailsSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/src/test/java/stepDefinitions/LoginSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/src/test/java/stepDefinitions/MenteeRegistrationStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/src/test/java/stepDefinitions/MentorRegistrationSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/src/test/java/utilities/ElementUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/src/test/resources/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/src/test/resources/features/AreaOfExpertise.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/src/test/resources/features/ContactDetails.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/src/test/resources/features/Login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/src/test/resources/features/MenteeRegistration.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/src/test/resources/features/MentorRegistration.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/src/test/resources/features/MyCalender.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumAutomation2023/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumCucumber2023/src/test/java/Hooks/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumCucumber2023/src/test/java/pageObjects/JourneyPlannerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumCucumber2023/src/test/java/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumCucumber2023/src/test/resources/features/JourneyPlanner.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrainingProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrainingProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrainingProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrainingProject/.idea/libraries/io_github_bonigarcia_webdrivermanager.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrainingProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrainingProject/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrainingProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrainingProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrainingProject/src/test/java/Hooks/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrainingProject/src/test/java/Hooks/BrowserDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrainingProject/src/test/resources/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrainingProject/src/test/resources/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrainingProject/src/test/resources/features/AMentorRegistration.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrainingProject/target/test-classes/Hooks/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrainingProject/testing.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lagProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lagProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lagProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lagProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lagProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lagProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tech/src/IfStatement/car.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2rmBiczVboNlCAlnNEKFke4EtCL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f0da8e5-4d47-477e-9b78-281b51a65ebd" name="Changes" comment="" />
+      <created>1737154503087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737154503087</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
